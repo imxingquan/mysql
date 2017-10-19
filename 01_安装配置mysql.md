@@ -46,8 +46,8 @@ mysql>flush privileges;
 
 ##参考  
 
-Mysql初始化root密码和允许远程访问 http://www.cnblogs.com/cnblogsfans/archive/2009/09/21/1570942.html 
-压缩包安装mysql https://jingyan.baidu.com/article/a378c9609eb652b3282830fd.html   
+Mysql初始化root密码和允许远程访问 http://www.cnblogs.com/cnblogsfans/archive/2009/09/21/1570942.html   
+压缩包安装mysql https://jingyan.baidu.com/article/a378c9609eb652b3282830fd.html  
 Virtualbox怎么设置访问外网以及主机访问虚拟机 https://jingyan.baidu.com/article/948f592410a763d80ef5f910.html 
 
 
